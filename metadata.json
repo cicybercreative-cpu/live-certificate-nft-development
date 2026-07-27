@@ -1,0 +1,8 @@
+{
+  "name": "Arca Golden's Generation",
+  "description": "Sistem informasi manajemen bukti kepemilikan emas digital berbasis NFT blockchain.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
